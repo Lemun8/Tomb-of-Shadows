@@ -1,0 +1,494 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1693321899041821, "dur":2871, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693321899044698, "dur":57, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1693321899044768, "dur":18, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1693321899044786, "dur":469, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1693321899045299, "dur":878, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693321899046177, "dur":2, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693321901029823, "dur":211, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693321901030034, "dur":190, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693321901030224, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693321901030226, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693321901030235, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693321901030238, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693321901030247, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693321901030248, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693321901030254, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693321901030256, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693321901030263, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693321901030264, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693321901030270, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693321901030272, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693321901030279, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693321901030280, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693321901030286, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693321901030310, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693321901030347, "dur":3802, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1693321899045641, "dur":545, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693321899046188, "dur":7930, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693321899054137, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1693321899054146, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693321899056604, "dur":1476, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1693321899058089, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1693321899058214, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693321899058670, "dur":5953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1693321899064627, "dur":29499, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1693321899094133, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693321899094147, "dur":8270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1693321899102539, "dur":64039, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693321899166585, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693321899166759, "dur":11315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693321899178154, "dur":38328, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693321899216490, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693321899216502, "dur":2557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693321899219152, "dur":40359, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693321899259519, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693321899259531, "dur":4933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693321899264547, "dur":48868, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693321899313422, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693321899313433, "dur":3084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693321899316615, "dur":240710, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693321899557330, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693321899557372, "dur":10111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693321899567579, "dur":35953, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693321899603539, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693321899603549, "dur":3668, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693321899607301, "dur":109725, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693321899717071, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693321899717080, "dur":2747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693321899719907, "dur":62856, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693321899782770, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693321899782819, "dur":3270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693321899786172, "dur":167988, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693321899954167, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693321899954177, "dur":2692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693321899956949, "dur":416831, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693321900373787, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693321900373798, "dur":4704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693321900378579, "dur":221855, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693321900600440, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693321900600450, "dur":7632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693321900608182, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":1, "ts":1693321900608263, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693321900608270, "dur":19475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":1, "ts":1693321900627822, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":1, "ts":1693321900627893, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693321900627900, "dur":4335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":1, "ts":1693321900633284, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1693321900633442, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693321900633450, "dur":60380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1693321900693910, "dur":560, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1693321900694478, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693321900694489, "dur":2888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1693321900697520, "dur":14182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1693321900711709, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693321900711717, "dur":15875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1693321900727676, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":1, "ts":1693321900727748, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693321900727753, "dur":2446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":1, "ts":1693321900730290, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":1, "ts":1693321900730377, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693321900730384, "dur":3074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":1, "ts":1693321900733544, "dur":296277, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693321899045693, "dur":499, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693321899046192, "dur":7933, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693321899054138, "dur":25689, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1693321899079834, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693321899079847, "dur":2961, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1693321899082925, "dur":237, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1693321899083168, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693321899084784, "dur":7403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1693321899092300, "dur":289, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1693321899092594, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693321899092605, "dur":11259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1693321899103968, "dur":1688, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile.exe" }}
+,{ "pid":12345, "tid":2, "ts":1693321899105663, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693321899105673, "dur":4046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile.exe" }}
+,{ "pid":12345, "tid":2, "ts":1693321899109964, "dur":104498, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693321899214470, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693321899214480, "dur":2698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693321899217272, "dur":35236, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693321899252513, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693321899252522, "dur":5295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693321899257929, "dur":57753, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693321899315689, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693321899315698, "dur":5086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693321899320885, "dur":36084, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693321899356976, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693321899356987, "dur":3010, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693321899360097, "dur":147913, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693321899508017, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693321899508027, "dur":2928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693321899511111, "dur":63154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693321899574272, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693321899574283, "dur":2830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693321899577196, "dur":56916, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693321899634119, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693321899634129, "dur":6033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693321899640256, "dur":39780, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693321899680043, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693321899680054, "dur":3250, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693321899683381, "dur":76749, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693321899760137, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693321899760147, "dur":4699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693321899764948, "dur":50494, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693321899815449, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693321899815458, "dur":2737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693321899818288, "dur":231325, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693321900049619, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693321900049632, "dur":3542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693321900053278, "dur":291462, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693321900344745, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693321900344757, "dur":34306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693321900379143, "dur":209033, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693321900588183, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693321900588194, "dur":2891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693321900591184, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1693321900591268, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693321900591403, "dur":3196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1693321900594681, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":2, "ts":1693321900594757, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693321900594808, "dur":2841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":2, "ts":1693321900597740, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":2, "ts":1693321900597821, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693321900597829, "dur":2650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":2, "ts":1693321900600591, "dur":178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":2, "ts":1693321900600778, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693321900600785, "dur":6012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":2, "ts":1693321900606882, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1693321900606975, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693321900606984, "dur":73996, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1693321900681146, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1693321900681272, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693321900681284, "dur":81458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1693321900762832, "dur":266988, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693321899045727, "dur":473, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693321899046200, "dur":7920, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693321899054137, "dur":65673, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1693321899119819, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693321899121788, "dur":4286, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1693321899126155, "dur":72237, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693321899198402, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693321899198414, "dur":3507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693321899202008, "dur":39383, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693321899241399, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693321899241410, "dur":4276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693321899245773, "dur":35185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693321899280966, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693321899281020, "dur":6160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693321899287380, "dur":206156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693321899493543, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693321899493553, "dur":8745, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693321899503674, "dur":36532, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693321899540215, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693321899540227, "dur":16493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693321899556946, "dur":41650, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693321899598607, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693321899598619, "dur":2413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693321899601116, "dur":39637, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693321899640760, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693321899640770, "dur":15556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693321899656515, "dur":184908, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693321899841430, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693321899841440, "dur":7615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693321899849137, "dur":52405, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693321899901550, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693321899901560, "dur":4782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693321899906434, "dur":337014, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693321900243456, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693321900243467, "dur":5605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693321900249160, "dur":218544, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693321900467711, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693321900467723, "dur":3275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693321900471083, "dur":96689, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693321900567780, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693321900567793, "dur":6338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693321900574214, "dur":265524, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693321900839746, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693321900839755, "dur":2952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693321900842804, "dur":186992, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1693321899045759, "dur":449, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1693321899046209, "dur":7915, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1693321899054136, "dur":237, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1693321899054377, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1693321899078524, "dur":3130, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1693321899081735, "dur":360, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1693321899082102, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1693321899082113, "dur":5683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1693321899087893, "dur":219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1693321899088118, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1693321899088254, "dur":4250, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1693321899092747, "dur":197, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1693321899092948, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1693321899092954, "dur":10830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1693321899103862, "dur":10871, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1693321899114741, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1693321899114751, "dur":3825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1693321899118677, "dur":67577, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1693321899186261, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1693321899186309, "dur":3664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1693321899190070, "dur":185096, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1693321899375174, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1693321899375185, "dur":11440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1693321899386706, "dur":36236, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1693321899422949, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1693321899422959, "dur":2183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1693321899425218, "dur":50294, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1693321899475519, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1693321899475529, "dur":3466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1693321899479103, "dur":57741, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1693321899536852, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1693321899536966, "dur":6280, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1693321899543356, "dur":93370, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1693321899636733, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1693321899636745, "dur":8274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1693321899645109, "dur":41075, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1693321899686191, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1693321899686201, "dur":3398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1693321899689683, "dur":75839, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1693321899765529, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1693321899765539, "dur":11041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1693321899776658, "dur":313678, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1693321900090344, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1693321900090354, "dur":5322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1693321900095770, "dur":245314, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":4, "ts":1693321900341091, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1693321900341102, "dur":3535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":4, "ts":1693321900344717, "dur":414066, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":4, "ts":1693321900758793, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1693321900758808, "dur":4968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":4, "ts":1693321900763895, "dur":265897, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693321899045785, "dur":431, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693321899046216, "dur":7905, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693321899054136, "dur":231, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1693321899054370, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693321899078107, "dur":5133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1693321899083315, "dur":16788, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1693321899100111, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693321899100123, "dur":4202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1693321899104425, "dur":198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1693321899104629, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693321899106301, "dur":19489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1693321899125890, "dur":104977, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321899230875, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693321899231002, "dur":4152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321899235234, "dur":88768, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321899324009, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693321899324019, "dur":3604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321899327734, "dur":63681, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321899391422, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693321899391432, "dur":2251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321899393758, "dur":74895, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321899468661, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693321899468674, "dur":5721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321899474475, "dur":33960, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321899508441, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693321899508451, "dur":4273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321899513467, "dur":85938, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321899599412, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693321899599422, "dur":4489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321899603989, "dur":38860, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321899642856, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693321899642866, "dur":2434, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321899645381, "dur":37424, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321899682813, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693321899682823, "dur":2284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321899685189, "dur":32812, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321899718008, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693321899718017, "dur":2488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321899720593, "dur":235402, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321899956002, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693321899956012, "dur":2503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321899958600, "dur":85834, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321900044441, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693321900044450, "dur":2840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321900047371, "dur":208571, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321900255950, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693321900255960, "dur":3636, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321900259689, "dur":293622, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321900553318, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693321900553329, "dur":4466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321900557880, "dur":399559, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321900957446, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693321900957457, "dur":2080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693321900959603, "dur":70193, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693321899045824, "dur":398, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693321899046222, "dur":7901, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693321899054137, "dur":38563, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1693321899092706, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693321899092716, "dur":9261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1693321899102083, "dur":3993, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693321899106082, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693321899106917, "dur":3627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693321899110694, "dur":36652, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693321899147354, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693321899148371, "dur":2674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693321899151161, "dur":50741, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693321899201907, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693321899201917, "dur":11261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693321899213372, "dur":36364, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693321899249743, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693321899249754, "dur":2703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693321899252547, "dur":127210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693321899379810, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693321899379819, "dur":2952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693321899382842, "dur":76061, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693321899458911, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693321899458921, "dur":3033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693321899462064, "dur":26753, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693321899488826, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693321899488838, "dur":2565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693321899491492, "dur":42835, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693321899534336, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693321899534348, "dur":2916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693321899537361, "dur":43641, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693321899581010, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693321899581022, "dur":2251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693321899583355, "dur":252348, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693321899835710, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693321899835721, "dur":3155, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693321899838955, "dur":376675, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693321900215636, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693321900215646, "dur":7285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693321900223036, "dur":157707, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693321900380751, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693321900380761, "dur":8936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693321900389785, "dur":456754, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693321900846549, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693321900846560, "dur":2614, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693321900849373, "dur":180421, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693321899045854, "dur":373, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693321899046227, "dur":7899, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693321899054137, "dur":231, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1693321899054371, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693321899058733, "dur":6522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1693321899065350, "dur":235, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1693321899065591, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693321899066802, "dur":3601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1693321899070509, "dur":28505, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1693321899099027, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693321899099045, "dur":4364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1693321899103643, "dur":409294, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693321899512941, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693321899512949, "dur":44338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693321899557444, "dur":42623, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693321899600075, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693321899600086, "dur":3482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693321899603671, "dur":48316, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693321899651994, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693321899656841, "dur":2593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693321899659525, "dur":48844, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693321899708379, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693321899708391, "dur":6803, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693321899715325, "dur":50438, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693321899765769, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693321899765777, "dur":2592, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693321899768453, "dur":115378, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693321899883838, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693321899883848, "dur":5690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693321899889621, "dur":56309, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693321899945938, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693321899945949, "dur":2346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693321899948383, "dur":165609, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693321900113998, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693321900114008, "dur":5301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693321900119393, "dur":135679, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693321900255079, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693321900255090, "dur":3130, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693321900258308, "dur":108596, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693321900366911, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693321900366921, "dur":8578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693321900375728, "dur":162547, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693321900538283, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693321900538293, "dur":3395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693321900541778, "dur":482360, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693321901024143, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693321901024151, "dur":5545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693321901029763, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":7, "ts":1693321901029766, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321899045892, "dur":340, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321899046232, "dur":7895, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321899054137, "dur":241, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1693321899054381, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321899080084, "dur":3382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1693321899083537, "dur":175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1693321899083716, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321899084412, "dur":2858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1693321899087395, "dur":22037, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1693321899109439, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321899109450, "dur":4629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1693321899114223, "dur":39382, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899153612, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321899153778, "dur":2652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899156507, "dur":56809, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899213321, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321899213329, "dur":2371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899215822, "dur":59129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899274958, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321899274969, "dur":3223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899278281, "dur":67099, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899345388, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321899345399, "dur":3571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899349058, "dur":60144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899409208, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321899409217, "dur":5567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899414935, "dur":58684, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899473626, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321899473727, "dur":2329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899476133, "dur":29697, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899505838, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321899505847, "dur":2902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899508826, "dur":35531, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899544368, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321899544382, "dur":3413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899547898, "dur":52177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899600079, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321899600087, "dur":4280, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899604442, "dur":29765, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899634212, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321899634219, "dur":6686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899640981, "dur":49741, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899690729, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321899690739, "dur":3178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899693998, "dur":49879, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899743885, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321899743895, "dur":2761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899746770, "dur":58212, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899804989, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321899805000, "dur":2770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899807852, "dur":95583, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899903483, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321899903493, "dur":2396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321899905968, "dur":252519, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321900158495, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321900158506, "dur":5523, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321900164137, "dur":178720, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321900342872, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321900342882, "dur":2894, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321900345854, "dur":358519, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321900704384, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321900704398, "dur":5315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693321900709797, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1693321900709877, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321900709887, "dur":3440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1693321900713406, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/resources.assets" }}
+,{ "pid":12345, "tid":8, "ts":1693321900713488, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321900713496, "dur":3379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/resources.assets" }}
+,{ "pid":12345, "tid":8, "ts":1693321900716974, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/level3" }}
+,{ "pid":12345, "tid":8, "ts":1693321900717077, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321900717085, "dur":3392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/level3" }}
+,{ "pid":12345, "tid":8, "ts":1693321900720559, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/level2" }}
+,{ "pid":12345, "tid":8, "ts":1693321900720628, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321900720636, "dur":3132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/level2" }}
+,{ "pid":12345, "tid":8, "ts":1693321900723886, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/level1" }}
+,{ "pid":12345, "tid":8, "ts":1693321900723974, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321900723981, "dur":3394, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/level1" }}
+,{ "pid":12345, "tid":8, "ts":1693321900727455, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/level0" }}
+,{ "pid":12345, "tid":8, "ts":1693321900727539, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321900727546, "dur":2684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/level0" }}
+,{ "pid":12345, "tid":8, "ts":1693321900730319, "dur":319, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/boot.config" }}
+,{ "pid":12345, "tid":8, "ts":1693321900730643, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693321900730649, "dur":2815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Tomb of Shadows/Tomb of Shadows Curse of the Nile_Data/boot.config" }}
+,{ "pid":12345, "tid":8, "ts":1693321900733547, "dur":296266, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693321901040748, "dur":4751, "ph":"X", "name": "ProfilerWriteOutput" }
+,
