@@ -1,4 +1,4 @@
-# Tomb-of-Shadows-Curse-of-the-Nile
+# Tomb of Shadows Curse of the Nile
 
 Tomb of Shadows Curse of the Nile is a horror game project made by [Hopium](https://hopium.itch.io/) during a 1 month IGI competition. 
 
