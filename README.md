@@ -31,6 +31,7 @@ Open the gates, get to the artifact.
 | Mouse             | Look Around       |
 
 # Credits
+
 Johan Ariel - **Game Programmer & Game Designer** <br>
 Garyn Norbert Gunawan - **Game Artist** <br>
 Sebastian Gabriel - **Sound Designer** <br>
