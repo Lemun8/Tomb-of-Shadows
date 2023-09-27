@@ -6,6 +6,9 @@ The game is based on ancient egpyt and your goal is to get to the artifact by op
 
 Link to the game: https://hopium.itch.io/tomb-of-shadows-curse-of-the-nile 
 
+![image (1)](https://github.com/Lemun8/Tomb-of-Shadows-Curse-of-the-Nile/assets/107360799/89e420e5-1189-4b45-bc22-c2935fb3b897)
+
+
 # Story
 
 You are an explorer who ventures to the depth of ancient egypt to find the artifact. It is said that the artifact grants immortality to those who are able to touch it. Little do they know, the artifact holds great evil within.
@@ -14,9 +17,15 @@ You are an explorer who ventures to the depth of ancient egypt to find the artif
 
 First Person camera mechanic, you are equipped with a flashlight, the player must be able to avoid the patrolling monsters and get to the artifact.
 
+![Uploading image (2).png…]()
+
+
 # Main Objective
 
 Open the gates, get to the artifact.
+
+![image (3)](https://github.com/Lemun8/Tomb-of-Shadows-Curse-of-the-Nile/assets/107360799/3d68f87b-3ac5-4d83-8784-4462d9dcf7d0)
+
 
 # Player Control
 
