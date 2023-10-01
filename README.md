@@ -8,18 +8,22 @@ Link to the game: https://hopium.itch.io/tomb-of-shadows-curse-of-the-nile
 
 Link to the game's trailer: https://youtu.be/X2aks1UKQ-4?si=ewKrLfDJq2mwIuSy
 
-![image (1)](https://github.com/Lemun8/Tomb-of-Shadows-Curse-of-the-Nile/assets/107360799/89e420e5-1189-4b45-bc22-c2935fb3b897)
+![image](https://github.com/Lemun8/Tomb-of-Shadows-Curse-of-the-Nile/assets/107360799/5cb7c379-f474-429d-8ab2-e28e4dab9af4)
+
 
 
 # Story
 
 You are an explorer who ventures to the depth of ancient egypt to find the artifact. It is said that the artifact grants immortality to those who are able to touch it. Little do they know, the artifact holds great evil within.
 
+![image (4)](https://github.com/Lemun8/Tomb-of-Shadows-Curse-of-the-Nile/assets/107360799/8d2f4197-7640-4003-a2ae-a4f04461e4f0)
+
+
 # Gameplay
 
 First Person camera mechanic, you are equipped with a flashlight, the player must be able to avoid the patrolling monsters and get to the artifact.
 
-![Uploading image (2).png…]()
+![image (1)](https://github.com/Lemun8/Tomb-of-Shadows-Curse-of-the-Nile/assets/107360799/89e420e5-1189-4b45-bc22-c2935fb3b897)
 
 
 # Main Objective
