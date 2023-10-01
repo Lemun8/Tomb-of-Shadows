@@ -6,6 +6,8 @@ The game is based on ancient egpyt and your goal is to get to the artifact by op
 
 Link to the game: https://hopium.itch.io/tomb-of-shadows-curse-of-the-nile 
 
+Link to the game's trailer: https://youtu.be/X2aks1UKQ-4?si=ewKrLfDJq2mwIuSy
+
 ![image (1)](https://github.com/Lemun8/Tomb-of-Shadows-Curse-of-the-Nile/assets/107360799/89e420e5-1189-4b45-bc22-c2935fb3b897)
 
 
