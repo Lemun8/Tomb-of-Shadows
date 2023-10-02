@@ -4,6 +4,8 @@ Tomb of Shadows Curse of the Nile is a horror game project made by [Hopium](http
 
 The game is based on ancient egpyt and your goal is to get to the artifact by opening 5 gates, however you must becareful because there are monsters patrolling the place. 
 
+Game Endinge: Unity Editor Version 2021.3.21f1
+
 Link to the game: https://hopium.itch.io/tomb-of-shadows-curse-of-the-nile 
 
 Link to the game's trailer: https://youtu.be/X2aks1UKQ-4?si=ewKrLfDJq2mwIuSy
