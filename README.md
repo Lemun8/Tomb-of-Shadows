@@ -49,7 +49,7 @@ Open the gates, get to the artifact.
 
 # Codes Explained
 
-## Enemy Pathfinding AI
+### Enemy Pathfinding AI
 
 The enemy AI generates a random number before deciding where to go on the location in the map. Paths were decided with each corresponding number, for example if the number generated is 5 then the enemy will go to the general area of the number 5, after the enemy patrols around the are then it will generate a new number that it will use to travel (the number can't be generated twice in a row). 
 
