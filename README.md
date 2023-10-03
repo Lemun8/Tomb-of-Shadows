@@ -53,6 +53,11 @@ Open the gates, get to the artifact.
 
 The enemy AI generates a random number before deciding where to go on the location in the map. Paths were decided with each corresponding number, for example if the number generated is 5 then the enemy will go to the general area of the number 5, after the enemy patrols around the are then it will generate a new number that it will use to travel (the number can't be generated twice in a row). 
 
+
+### Enemy Chasing AI
+
+The enemy has a box collider that will trigger its chase to the player if the tag "player" is in its box collider. The box collider will act as a vision range for the monster. Once the player passes the enemy's vision then it will start to chase the player with a running animation, the chase lasts for 5 seconds before the enemy stops chasing the player (if you're out of its chase vision).
+
 # Credits
 
 Johan Ariel - **Game Programmer & Game Designer** <br>
