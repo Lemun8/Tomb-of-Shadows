@@ -10,7 +10,8 @@ Link to the game: https://hopium.itch.io/tomb-of-shadows-curse-of-the-nile
 
 Link to the game's trailer: https://youtu.be/X2aks1UKQ-4?si=ewKrLfDJq2mwIuSy
 
-![image](https://github.com/Lemun8/Tomb-of-Shadows-Curse-of-the-Nile/assets/107360799/5cb7c379-f474-429d-8ab2-e28e4dab9af4)
+![ezgif com-optimize](https://github.com/Lemun8/Tomb-of-Shadows-Curse-of-the-Nile/assets/107360799/24113c08-1a06-4db0-acab-8d703c11f08c)
+
 
 
 
