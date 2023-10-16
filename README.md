@@ -48,8 +48,6 @@ Open the gates, get to the artifact.
 | Spacebar          | Jump              |
 | Mouse             | Look Around       |
 
-# Core Loop
-
 # Codes Explained
 
 ### Enemy Pathfinding AI
