@@ -48,27 +48,6 @@ Open the gates, get to the artifact.
 | Spacebar          | Jump              |
 | Mouse             | Look Around       |
 
-# Codes Explained
-
-### Enemy Pathfinding AI
-
-The enemy AI generates a random number before deciding where to go on the location in the map. Paths were decided with each corresponding number, for example if the number generated is 5 then the enemy will go to the general area of the number 5, after the enemy patrols around the are then it will generate a new number that it will use to travel.
-
-![Screenshot 2023-10-04 223639](https://github.com/Lemun8/Tomb-of-Shadows-Curse-of-the-Nile/assets/107360799/03222bc3-4f48-477c-b4a7-f4ab6af68090)
-
-![Screenshot 2023-10-04 223815](https://github.com/Lemun8/Tomb-of-Shadows-Curse-of-the-Nile/assets/107360799/1141fc7c-cbb0-4344-9458-86fe24a5129a)
-
-
-
-### Enemy Chasing AI
-
-The enemy has a box collider that will trigger its chase to the player if the tag "player" is in its box collider. The box collider will act as a vision range for the monster. Once the player passes the enemy's vision then it will start to chase the player with a running animation, the chase lasts for 5 seconds before the enemy stops chasing the player (if you're out of its chase vision).
-
-![Screenshot 2023-10-04 223738](https://github.com/Lemun8/Tomb-of-Shadows-Curse-of-the-Nile/assets/107360799/94801040-a92a-4370-b5c7-3863158094d3)
-
-![Screenshot 2023-10-04 223837](https://github.com/Lemun8/Tomb-of-Shadows-Curse-of-the-Nile/assets/107360799/cde8d5d2-aa35-4601-9daa-b885280f5a33)
-
-
 # Credits
 
 Johan Ariel - **Game Programmer & Game Designer** <br>
